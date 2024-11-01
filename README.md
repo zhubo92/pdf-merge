@@ -1,4 +1,6 @@
-# pdf-merge
+# pdf-merge 
+
+多个 pdf 合并工具，选择多个pdf，点击合并按钮，即可生成合并文件
 
 ## Project setup
 ```
